@@ -19,9 +19,7 @@
 `git branch merge ` **show the branchs list that no merges**
 
 
-I cleaned up your tutorial notes into a structured Markdown study guide while **keeping the original video/tutorial numbers like `[14]`, `[23]`, `[54 $$]`** so you can easily find the corresponding lesson later. The notes also explain **what the command does, when to use it, and common use cases**.
 
-Source: Your uploaded Git tutorial notes. 
 
 # Git Complete Study Notes
 
@@ -1082,4 +1080,4 @@ git checkout main
 git pull
 ```
 
-This note covers the Git topics from **[5] → [82]** in a cleaner study-guide format while preserving your original tutorial numbering for quick reference. 
+
